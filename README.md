@@ -1,0 +1,3 @@
+# TridentPigmentation2018
+
+In this repository you can find some of the custom scripts used for calculations and plots in the article **Pleiotropic effects of regulatory variation in tan result in a correlated phenotypic response of two pigmentation traits in Drosophila melanogaster.**. Most of the scripts used were already published with the publication **Reconciling differences in Pool-GWAS between populations: a case study of female abdominal pigmentation in Drosophila melanogaster.** *Lukas Endler, Andrea J. Betancourt, Viola Nolte, and Christian Schlötterer; Genetics, 2016* [github repo](https://github.com/luenling/Pigmentation2015).
